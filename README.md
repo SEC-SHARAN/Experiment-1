@@ -1,7 +1,7 @@
 # Experiment-1
 
-# NAME: Dheena Darshini Karthik Dheepan
-# REG NO: 212223240030
+# NAME: SHARAN S
+# REG NO: 212224040309
 
 ##  Write programs in Python Language to demonstrate the working of
 ## following constructs with possible test cases: a) do…while b) while…do c)
